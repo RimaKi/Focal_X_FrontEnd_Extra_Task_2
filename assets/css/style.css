@@ -27,6 +27,10 @@ header {
         border: none;
         background: none;
 
+        :focus , :active{
+            outline: none;
+        }
+
         svg {
             font-size: 30px;
         }
