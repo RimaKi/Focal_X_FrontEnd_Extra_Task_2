@@ -107,7 +107,12 @@ header {
         padding-right: 30px;
     }
     header {
+        nav {
+            height: 50px;
+        }
         .hero {
+            padding-top: 60px;
+            padding-bottom: 90px;
             flex-direction: column;
             
             .container {
